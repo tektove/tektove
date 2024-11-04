@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tektove
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning html, css and javascript
-- 📫 How to reach me [X](https://x.com/tektove)
-- 😄 Pronouns: he,him
-- ⚡ Fun fact: I an an instrumentation engineer.
+- 👋 Hi Tekkies, You have reached Tektove's Github page!
+- 👀 Here you will find lots of interesting stuff.
+- 🌱 Make sure to check out tektove.com
+- 📫 and our twitter page [X](https://x.com/tektove)
+- 😄 Pronouns: They, Them
+- ⚡ So, What the Tek is going on?
