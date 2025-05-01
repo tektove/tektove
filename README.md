@@ -2,7 +2,7 @@
 
 Hey there, **Tekkies**! 👋 You've arrived at the hub of innovation, where ideas turn into reality and pixels transform into dynamic creations.
 
-## 🌟 What is Tektove?
+## ⭕ What is Tektove?
 Tektove is more than just code—it's a **community-driven** powerhouse for **customizable app solutions**. Whether you're diving into **LAMP or MERN stacks**, exploring **devops culture**, or perfecting **basics**, you've found your people.
 
 ## 🔥 Featured Projects
